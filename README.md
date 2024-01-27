@@ -1,5 +1,5 @@
 **Title**: Text Mining and Sentiment Analysis of Amazon Alexa Reviews Dataset
-**Introduction**
+**Introduction**:
 This project invloves text mining and sentiment analysis methods on a dataset containing Amazon Alexa reviews. It uses natural language processing (NLP) techniques to extract valuable insights from customer opinions and sentiments expressed in the reviews.
 The analysis utilises exploratory data examination, word frequency analysis, sentiment classification, and topic modelling using techniques such as Random Forest classification and Latent Dirichlet Allocation (LDA). 
 The aim is to gain an understanding of the sentiments and topics prevalent in Amazon Alexa user feedback.
