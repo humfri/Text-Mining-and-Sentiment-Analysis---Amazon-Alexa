@@ -19,4 +19,23 @@ Random Forest Classifier Performance:
 **Conclusion**
 This analysis not only explores the sentiments expressed in Amazon Alexa reviews but also provides a detailed evaluation of the Random Forest classifier's performance, sentiment distribution, and identified topics through topic modelling techniques.
 
+## Dependencies
+
+### Text Mining and Sentiment Analysis
+- pandas==1.3.3
+- numpy==1.21.2
+- nltk==3.6.3
+- seaborn==0.11.2
+- textblob==0.15.3
+- wordcloud==1.8.1
+
+Additional NLTK Dependencies:
+- nltk.corpus
+- nltk.tokenize
+- nltk.stem
+
+Install dependencies using:
+
+```bash
+pip install pandas==1.3.3 numpy==1.21.2 nltk==3.6.3 seaborn==0.11.2 textblob==0.15.3 wordcloud==1.8.1
 
