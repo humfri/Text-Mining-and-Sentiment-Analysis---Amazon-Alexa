@@ -16,6 +16,7 @@ Random Forest Classifier Performance:
 + F1-score for Positive Feedback: ~95.23%
 + Classification Report provides detailed metrics for both classes (0 and 1).
       
+**Conclusion**
 This analysis not only explores the sentiments expressed in Amazon Alexa reviews but also provides a detailed evaluation of the Random Forest classifier's performance, sentiment distribution, and identified topics through topic modelling techniques.
 
 
