@@ -18,7 +18,4 @@ Random Forest Classifier Performance:
       
 This analysis not only explores the sentiments expressed in Amazon Alexa reviews but also provides a detailed evaluation of the Random Forest classifier's performance, sentiment distribution, and identified topics through topic modelling techniques.
 
-**Summary**:
-Text mining and sentiment analysis are essential tools for deriving insights from extensive unstructured text. By utilising advanced natural language processing, they reveal patterns, trends, and sentiments, offering critical insights in various business aspects and customer behaviour. Sentiment analysis is valuable for understanding public opinion and emotional responses.
-
 
